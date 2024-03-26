@@ -1,5 +1,4 @@
-# Relatório de Observabilidade do .NET com OpenTelemetry
-
+# Ponderada de OpenTelemetry
 ## Introdução
 
 Este relatório documenta a implementação de observabilidade em uma aplicação .NET utilizando OpenTelemetry, com integração ao Prometheus para coleta de métricas, Jaeger para rastreamento distribuído e Grafana para visualização. Feita para o autoestudo ponderado da semana 7.
